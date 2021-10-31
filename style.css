@@ -197,7 +197,7 @@ nav.sidebar {
   color: white;
 }
 
-@media screen and (min-width: 415px) {
+@media screen and (min-width: 500px) {
   section.cards {
     flex-direction: row;
   }
@@ -208,7 +208,6 @@ nav.sidebar {
   }
   .hamburger {
     display: none;
-    /* color: red; */
   }
   .hero {
     height: calc(50vh - 60px);
@@ -218,7 +217,7 @@ nav.sidebar {
   }
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 500px) {
   .navbar {
     display: none;
   }
