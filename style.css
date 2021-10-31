@@ -70,7 +70,6 @@ footer.subscribe {
   color: white;
   margin-bottom: 1rem;
   height: 100px;
-  padding: 0 1rem 0;
 }
 footer.subscribe h3 {
   display: flex;
@@ -206,6 +205,7 @@ nav.sidebar {
     justify-content: space-between;
     height: 60px;
     margin-bottom: 0;
+    padding: 0 1rem 0;
   }
   .hamburger {
     display: none;
