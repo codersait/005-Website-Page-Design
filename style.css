@@ -135,7 +135,7 @@ footer.bottom .logo {
 .line {
   background: white;
   width: 100%;
-  height: 1px;
+  height: 2px;
   margin-bottom: 6px;
   transition: all 0.2s ease-in-out;
 }
@@ -151,7 +151,7 @@ footer.bottom .logo {
 .third-line {
   transform: rotate(45deg);
   position: relative;
-  top: -2px;
+  top: -4px;
 }
 
 /* Sidebar */
